@@ -1,4 +1,4 @@
-## Teste
+## Questionário conceitual (POO)
 
 **1 - O que é uma classe?**
 É um molde que define os atributos e métodos comuns a um conjunto de objetos. Exemplo no projeto: `AlunoRequest` define que todo aluno recebido tem `nome`, `nota1` e `nota2`.
@@ -38,4 +38,4 @@ No contexto de uma classe Java, é o atributo declarado no nível da classe (for
 
 **13 - O que é encapsulamento?**
 É o princípio de esconder os detalhes internos de uma classe, protegendo os atributos como `private` e expondo o acesso controlado através de métodos públicos (getters e setters). No projeto, isso aparece em `AlunoRequest` e `AlunoResponse`.
-=======
+
